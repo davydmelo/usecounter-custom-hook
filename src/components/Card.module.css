@@ -1,0 +1,12 @@
+.card {
+	width: 200px;
+	height: 50px;
+	background-color: cornflowerblue;
+	border: solid 1px yellow;
+	margin: 10px;
+}
+
+.card p {
+	color: white;
+	text-align: center;
+}
